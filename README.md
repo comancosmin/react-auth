@@ -29,9 +29,9 @@ echo "FIREBASE_MESSAGING_SENDER_ID=YOUR_MESSAGING_SENDER_ID" >> .env
 echo "FIREBASE_APP_ID=YOUR_APP_ID" >> .env
 npm run dev 
 ```
-##Technologies Used
-###React
-###Next.js
-###Firebase
-###Tailwind
+## Technologies Used
+### React
+### Next.js
+### Firebase
+### Tailwind
 
