@@ -27,8 +27,8 @@ echo "FIREBASE_PROJECT_ID=YOUR_PROJECT_ID" >> .env
 echo "FIREBASE_STORAGE_BUCKET=YOUR_STORAGE_BUCKET" >> .env
 echo "FIREBASE_MESSAGING_SENDER_ID=YOUR_MESSAGING_SENDER_ID" >> .env
 echo "FIREBASE_APP_ID=YOUR_APP_ID" >> .env
-npm run dev ```
-
+npm run dev 
+```
 ##Technologies Used
 ###React
 ###Next.js
