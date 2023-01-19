@@ -1,5 +1,7 @@
 # React Next.js Firebase Authentication
 
+![image](https://user-images.githubusercontent.com/24994281/213343108-f282baef-a32a-438d-92b3-26b1db832da2.png)
+
 This project is a demonstration of how to use [Next.js](https://nextjs.org/), [React](https://reactjs.org/) and [Firebase](https://firebase.google.com/) to create a simple authentication system in a React application.
 
 ## Features
