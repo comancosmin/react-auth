@@ -9,6 +9,18 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <main>
+        <h2 className="text-2xl pb-5">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia, ex!
+        </h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo numquam
+          facilis sint perspiciatis amet nam doloremque aut corrupti aperiam
+          commodi, natus atque corporis? Quisquam asperiores ullam, voluptas
+          quidem ipsam provident corporis nam. Ex quisquam dolore aperiam
+          possimus, aliquid nam sunt!
+        </p>
+      </main>
     </>
   );
 }
